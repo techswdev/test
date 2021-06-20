@@ -6,5 +6,6 @@ public class main {
         System.out.println("third");
         System.out.println("forth");
         System.out.println("fifth");
+        System.out.println("6-1");
     }
 }
