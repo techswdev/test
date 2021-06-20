@@ -4,5 +4,7 @@ public class main {
         System.out.println("first");
         System.out.println("second");
         System.out.println("third");
+        System.out.println("forth");
+        System.out.println("fifth");
     }
 }
